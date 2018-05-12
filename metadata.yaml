@@ -1,4 +1,8 @@
 _repo: Herakles-the-Hero-of-Thebes-and-Other-Heroes-of-the-Myth-Adapted-from-the-Second-Book-of-the-__50569
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50569-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Burt, Mary E. (Mary Elizabeth)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '45979'
     url: http://www.gutenberg.org/2009/agents/45979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50569#Herakles-the-Hero-of-Thebes-and-Other-Heroes-of-the-Myth-Adapted-from-the-Second-Book-of-the-_
 gutenberg_issued: '2015-11-28'
 gutenberg_type: Text
 identifiers:
