@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Herakles, the Hero of Thebes, and Other Heroes of the Myth
 
   Adapted from the Second Book of the Primary Schools of Athens, Greece'
